@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="visibility_not_available">Visibility NA</string>
+    <string name="feels_like_not_available">Feels Like NA</string>
+    <string name="clouds_not_available">Clouds NA</string>
+    <string name="pressure_not_available">Pressure NA</string>
+    <string name="humidity_not_available">Humidity NA</string>
+    <string name="wind_not_available">Wind NA</string>
+    <string name="temperature">Temp</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="temperature_max">Temp Max</string>
+    <string name="temperature_min">Temp Min</string>
+    <string name="sunset">Sunset Time</string>
+    <string name="sunrise">Sunrise Time</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_view">Map View</string>
+    <string name="network_error">Please check the network and retry again.</string>
+    <string name="city_error">Please enter city name</string>
+    <string name="retry">Retry..</string>
+    <string name="close_app">Cancel</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="service_error">Error occurred in invoking webservice.</string>
+    <string name="tile">Select Tile</string>
+</resources>
